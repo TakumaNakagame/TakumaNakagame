@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [prometheus.io/scrape などのAnnotations について調べてみた](https://medium.com/penguin-lab/research-about-annotations-such-as-prometheus-io-scrape-6cba3121de59?source=rss-6f6728e2d2a6------2)
+- [OBSを使ったオンライン勉強会の画面づくりの紹介 #3 コンテンツを表示する](https://medium.com/penguin-lab/how-to-layout-for-online-meetup-using-obs-studio-3-editing-contents-b2b41b83f187?source=rss-6f6728e2d2a6------2)
+- [OBSを使ったオンライン勉強会の画面づくりの紹介 #2 フレーム画像の作成](https://medium.com/penguin-lab/how-to-layout-for-online-meetup-using-obs-studio-2-creating-a-frame-image-7eda6e220799?source=rss-6f6728e2d2a6------2)
+- [OBSを使ったオンライン勉強会の画面づくりの紹介 #1 配信の概要](https://medium.com/penguin-lab/how-to-layout-for-online-meetup-using-obs-studio-1-about-online-meetup-4c2f383ccb79?source=rss-6f6728e2d2a6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
